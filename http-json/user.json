@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "name": "Maria",
+            "type": "Leitora",
+            "age": 30,
+            "social": {
+                "facebook": "http://facebook.com/maria",
+                "twitter": "http://twitter.com/maria"
+            }
+        },
+        {
+            "name": "Awibilei",
+            "type": "Gamer",
+            "age": 45,
+            "social": {
+                "facebook": "http://facebook.com/awibilei",
+                "twitter": "http://twitter.com/awibilei"
+            }
+        }
+    ]
+}
